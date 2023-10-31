@@ -4,8 +4,8 @@ repo: status
 sites:
   - name: IUGA Website
     url: https://iuga.info
-  - name: Test Site
-    url: https://test.iuga.info
+  - name: Testing
+    url: https://testing.iuga.info
 
 status-website:
   cname: status.iuga.info
