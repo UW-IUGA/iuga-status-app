@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 469,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "time": 430,
+    "timeDay": 430,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Testing 2",
-    "url": "https://testing2.iuga.info",
-    "icon": "https://icons.duckduckgo.com/ip3/testing2.iuga.info.ico",
-    "slug": "testing-2",
-    "status": "down",
-    "uptime": "78.99%",
-    "uptimeDay": "78.99%",
-    "uptimeWeek": "78.99%",
-    "uptimeMonth": "78.99%",
-    "uptimeYear": "78.99%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-10-31": 0
-    }
   }
 ]
