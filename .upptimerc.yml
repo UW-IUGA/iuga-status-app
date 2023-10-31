@@ -4,7 +4,7 @@ repo: status
 sites:
   - name: IUGA Website
     url: https://iuga.info
-  - name: Test Broken Site
+  - name: Test Site
     url: https://test.iuga.info
 
 status-website:
