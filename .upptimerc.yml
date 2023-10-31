@@ -8,7 +8,8 @@ sites:
 status-website:
   cname: status.iuga.info
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/UW-IUGA/status/master/assets/iuga-image.jpg
+  favicon: https://raw.githubusercontent.com/UW-IUGA/status/master/assets/favicon.ico
   name: IUGA Status
   introTitle: "**Informatics Undergraduate Association**"
   introMessage: IT Status Page
