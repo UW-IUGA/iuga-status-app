@@ -4,9 +4,9 @@
     "url": "https://iuga.info",
     "icon": "https://icons.duckduckgo.com/ip3/iuga.info.ico",
     "slug": "iuga-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1115,
     "timeMonth": 1212,
     "timeYear": 1838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   },
   {
     "name": "IUGA Server",
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iuga-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 598,
     "timeMonth": 466,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   }
 ]
