@@ -4,12 +4,6 @@ repo: status
 sites:
   - name: IUGA Website
     url: https://iuga.info
-  - name: IUGA Server
-    url: $SECRET_SITE
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 401
     
 status-website:
   cname: status.iuga.info
