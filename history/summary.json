@@ -5,20 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iuga.info.ico",
     "slug": "iuga-website",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.96%",
-    "time": 1292,
-    "timeDay": 336,
-    "timeWeek": 488,
-    "timeMonth": 542,
-    "timeYear": 1292,
+    "uptimeYear": "99.98%",
+    "time": 1287,
+    "timeDay": 272,
+    "timeWeek": 451,
+    "timeMonth": 523,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2024-04-30": 29,
       "2024-04-21": 18,
-      "2024-03-15": 72,
       "2024-02-19": 11
     }
   }
