@@ -19,7 +19,7 @@ sites:
   - name: IUGA Admin Console
     url: $WEB_ADMIN
   - name: IUGA Admin Console (Development)
-    url: $WEB_ADMIN_DEVV
+    url: $WEB_ADMIN_DEV
     
 status-website:
   cname: status.iuga.info
