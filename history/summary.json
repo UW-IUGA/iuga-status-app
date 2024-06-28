@@ -21,5 +21,83 @@
       "2024-04-21": 18,
       "2024-02-19": 11
     }
+  },
+  {
+    "name": "IUGA Website (Staging)",
+    "url": "$WEB_APP_STAGING",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "iuga-website-staging",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 455,
+    "timeDay": 455,
+    "timeWeek": 455,
+    "timeMonth": 455,
+    "timeYear": 455,
+    "dailyMinutesDown": {
+      "2024-06-28": 9
+    }
+  },
+  {
+    "name": "IUGA Website (Development)",
+    "url": "$WEB_APP_DEV",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "iuga-website-development",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 462,
+    "timeDay": 462,
+    "timeWeek": 462,
+    "timeMonth": 462,
+    "timeYear": 462,
+    "dailyMinutesDown": {
+      "2024-06-28": 9
+    }
+  },
+  {
+    "name": "IUGA Admin Console",
+    "url": "$WEB_ADMIN",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "iuga-admin-console",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 484,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 484,
+    "timeYear": 484,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "IUGA Admin Console (Development)",
+    "url": "$WEB_ADMIN_DEV",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "iuga-admin-console-development",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 481,
+    "timeDay": 481,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
+    "dailyMinutesDown": {
+      "2024-06-28": 8
+    }
   }
 ]
