@@ -6,8 +6,16 @@ sites:
     url: https://iuga.info
   - name: IUGA Website (Staging)
     url: $WEB_APP_STAGING
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
   - name: IUGA Website (Development)
     url: $WEB_APP_DEV
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
   - name: IUGA Admin Console
     url: $WEB_ADMIN
   - name: IUGA Admin Console (Development)
