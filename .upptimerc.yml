@@ -4,6 +4,14 @@ repo: status
 sites:
   - name: IUGA Website
     url: https://iuga.info
+  - name: IUGA Website (Staging)
+    url: $WEB_APP_STAGING
+  - name: IUGA Website (Development)
+    url: $WEB_APP_DEV
+  - name: IUGA Admin Console
+    url: $WEB_ADMIN
+  - name: IUGA Admin Console (Development)
+    url: $WEB_ADMIN_DEV
     
 status-website:
   cname: status.iuga.info
