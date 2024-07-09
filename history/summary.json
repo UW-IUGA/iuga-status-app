@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 1153,
-    "timeDay": 294,
-    "timeWeek": 384,
-    "timeMonth": 474,
-    "timeYear": 1153,
+    "time": 1150,
+    "timeDay": 324,
+    "timeWeek": 358,
+    "timeMonth": 466,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2024-06-28": 39,
       "2024-04-30": 29,
@@ -28,19 +28,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iuga-website-staging",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 578,
-    "timeDay": 117,
-    "timeWeek": 326,
-    "timeMonth": 578,
-    "timeYear": 578,
-    "dailyMinutesDown": {
-      "2024-06-28": 13
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 561,
+    "timeDay": 261,
+    "timeWeek": 347,
+    "timeMonth": 561,
+    "timeYear": 561,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IUGA Website (Development)",
@@ -48,19 +46,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iuga-website-development",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 451,
-    "timeDay": 110,
-    "timeWeek": 336,
-    "timeMonth": 451,
-    "timeYear": 451,
-    "dailyMinutesDown": {
-      "2024-06-28": 13
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 442,
+    "timeDay": 233,
+    "timeWeek": 305,
+    "timeMonth": 442,
+    "timeYear": 442,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IUGA Admin Console",
@@ -73,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 132,
-    "timeWeek": 405,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "time": 447,
+    "timeDay": 195,
+    "timeWeek": 306,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {}
   }
 ]
