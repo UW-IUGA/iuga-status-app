@@ -4,10 +4,10 @@
     "url": "https://iuga.info",
     "icon": "https://icons.duckduckgo.com/ip3/iuga.info.ico",
     "slug": "iuga-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 989,
@@ -16,6 +16,7 @@
     "timeMonth": 500,
     "timeYear": 989,
     "dailyMinutesDown": {
+      "2024-10-01": 2,
       "2024-08-11": 17,
       "2024-06-28": 39,
       "2024-04-30": 29,
@@ -28,10 +29,10 @@
     "url": "$WEB_APP_STAGING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iuga-website-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 480,
@@ -39,16 +40,18 @@
     "timeWeek": 541,
     "timeMonth": 480,
     "timeYear": 480,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-01": 1
+    }
   },
   {
     "name": "IUGA Website (Development)",
     "url": "$WEB_APP_DEV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iuga-website-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +60,9 @@
     "timeWeek": 343,
     "timeMonth": 485,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-01": 0
+    }
   },
   {
     "name": "IUGA Admin Console",
@@ -65,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "iuga-admin-console",
     "status": "down",
-    "uptime": "60.05%",
+    "uptime": "59.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.05%",
+    "uptimeYear": "59.62%",
     "time": 404,
     "timeDay": 461,
     "timeWeek": 355,
     "timeMonth": 387,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-10-01": 63,
+      "2024-10-01": 1042,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
